@@ -6,7 +6,8 @@ Human Activity Recognition Using Smartphones
 
 ### Files
 1-CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
-2-doweload_file.R run to check if files is exists and doweload it if not.
+**
+**2-doweload_file.R run to check if files is exists and doweload it if not.
 3-run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement.
