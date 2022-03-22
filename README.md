@@ -1,11 +1,11 @@
 # getting-and-cleaning-data-project
-##This repository is for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+## This repository is for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 ### Dataset
 Human Activity Recognition Using Smartphones
 
 ### Files
-CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+... CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 doweload_file.R run to check if files is exists and doweload it if not.
 run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 Merges the training and the test sets to create one data set.
